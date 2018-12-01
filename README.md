@@ -11,8 +11,8 @@ $ apt update
 $ apt upgrade
 $ apt install python
 $ apt install git
-$ git clone https://github.com/arifistifik/HelloWorld2018
-$ cd HelloWorld2018
+$ git clone https://github.com/ariefiraBot/helloart
+$ cd helloart
 $ python -m pip install -r requirements.txt
 $ python helloworld.py -a IOSIPAD
 ```
@@ -20,8 +20,8 @@ $ python helloworld.py -a IOSIPAD
 ## Installation for VPS
 
 ```sh
-$ git clone https://github.com/arifistifik/HelloWorld2018
-$ cd HelloWorld2018
+$ git clone https://github.com/ariefiraBot/helloart
+$ cd Helloart
 $ python3 -m pip install -r requirements.txt
 $ python3 helloworld.py -a IOSIPAD
 ```
